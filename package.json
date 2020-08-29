@@ -1,0 +1,16 @@
+{
+  "name": "pandoc-katex",
+  "version": "0.1.0",
+  "description": "Pandoc filter to render server-side KaTeX",
+  "main": "pandoc-katex.js",
+  "dependencies": {
+    "katex": "^0.12.0",
+    "pandoc-filter": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Griesemer",
+  "license": "MIT"
+}
